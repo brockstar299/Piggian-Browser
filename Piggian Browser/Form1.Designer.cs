@@ -49,7 +49,6 @@
             this.panel3 = new System.Windows.Forms.Panel();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.goToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.MyAccountMenuStrip = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.OptionsMenuStrip.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel1.SuspendLayout();
@@ -67,7 +66,6 @@
             this.newTabToolStripMenuItem,
             this.developerToolStripMenuItem});
             this.OptionsMenuStrip.Name = "OptionsMenuStrip";
-            this.OptionsMenuStrip.OwnerItem = this.optionsToolStripMenuItem;
             this.OptionsMenuStrip.Size = new System.Drawing.Size(227, 48);
             // 
             // newTabToolStripMenuItem
@@ -245,12 +243,6 @@
             this.goToolStripMenuItem.Text = "Go";
             this.goToolStripMenuItem.Click += new System.EventHandler(this.button1_Click);
             // 
-            // MyAccountMenuStrip
-            // 
-            this.MyAccountMenuStrip.ImageScalingSize = new System.Drawing.Size(20, 20);
-            this.MyAccountMenuStrip.Name = "MyAccountMenuStrip";
-            this.MyAccountMenuStrip.Size = new System.Drawing.Size(61, 4);
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -301,7 +293,6 @@
         private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem4;
         private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem5;
         private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.ContextMenuStrip MyAccountMenuStrip;
         private CefSharp.WinForms.ChromiumWebBrowser chromiumWebBrowser1;
     }
 }
