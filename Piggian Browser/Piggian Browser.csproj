@@ -182,19 +182,7 @@
     </COMReference>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Game.ico" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\folder-image-icon-10.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="Resources\Screenshot 2024-01-31 075410.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="Resources\pin_PNG81.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="Resources\Robux.png" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Resources\Pig.png" />
