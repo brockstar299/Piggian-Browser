@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piggian Browser", "Piggian Browser\Piggian Browser.csproj", "{A7FD6541-72EF-4ABB-88D4-88BF4F0B7D7B}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Piggian 1.0", "Piggian 1.0\Piggian 1.0.vdproj", "{0A535D2F-3BD7-4447-8E44-3CC146C16972}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A7FD6541-72EF-4ABB-88D4-88BF4F0B7D7B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A7FD6541-72EF-4ABB-88D4-88BF4F0B7D7B}.Release|x86.ActiveCfg = Release|x86
 		{A7FD6541-72EF-4ABB-88D4-88BF4F0B7D7B}.Release|x86.Build.0 = Release|x86
+		{0A535D2F-3BD7-4447-8E44-3CC146C16972}.Debug|Any CPU.ActiveCfg = Debug
+		{0A535D2F-3BD7-4447-8E44-3CC146C16972}.Debug|x86.ActiveCfg = Debug
+		{0A535D2F-3BD7-4447-8E44-3CC146C16972}.Release|Any CPU.ActiveCfg = Release
+		{0A535D2F-3BD7-4447-8E44-3CC146C16972}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

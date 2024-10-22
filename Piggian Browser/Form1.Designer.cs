@@ -66,6 +66,7 @@
             this.newTabToolStripMenuItem,
             this.developerToolStripMenuItem});
             this.OptionsMenuStrip.Name = "OptionsMenuStrip";
+            this.OptionsMenuStrip.OwnerItem = this.optionsToolStripMenuItem;
             this.OptionsMenuStrip.Size = new System.Drawing.Size(227, 48);
             // 
             // newTabToolStripMenuItem
