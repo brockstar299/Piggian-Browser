@@ -37,7 +37,7 @@ We welcome contributions! To help improve Piggian:
 
 4. Submit a pull request with details about your changes.
 
-##License
+## License
 
 Piggian is licensed under the MIT License. You are free to use, modify, and distribute the software as long as you include the original license.
 
